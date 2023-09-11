@@ -26,4 +26,7 @@ This setup assumes you are operating within a virtual environment. Ensure you're
 - Once you've executed the `.bat` file, the offline model should be operational.
 - Interact using the provided Command Line Interface (CLI) for a user-friendly experience.
 
+![Screenshot 2023-09-11 131609](https://github.com/Himanshu8881212/llama2-7b-chat-GGUF/assets/134622172/6cd21849-ed02-435f-9d2b-b5bc49bb94c8)
+
+
 When faced with challenges, refer back to this guide.
