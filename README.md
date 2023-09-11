@@ -1,7 +1,7 @@
 # llama2-7b-chat-GGUF
 Inferencing of llama2-7b-chat GGUF quantized model by the bloke with conversational buffer memory using CLI UI
 
-Setting Up and Running the Model Offline with CLI UI on CPU
+Setting Up and Running the Model Offline with CLI UI on the CPU
 
 Before starting, please note:
 This setup assumes you are operating within a virtual environment. Ensure you're referencing the correct directory paths inside this environment when following the steps below.
@@ -14,9 +14,9 @@ This setup assumes you are operating within a virtual environment. Ensure you're
 - Find and update the model path to the location where you saved the model inside your virtual environment.
 
 3. Editing the Notepad Bash Scripting File:
-- Find the bash scripting file provided. This might have an extension like `.sh` or similar.
+- Find the bash scripting file provided. This might have an extension like `.txt` or similar.
 - Open it in Notepad or a similar text editor.
-- Make the necessary modifications, and ensure to reference the correct directory paths due to the virtual environment.
+- Make the necessary modifications, and ensure reference of the correct directory paths due to the virtual environment.
 
 4. Saving and Executing the Batch File:
 - After editing, save the file with a `.bat` extension.
